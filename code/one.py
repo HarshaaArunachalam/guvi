@@ -3,7 +3,5 @@ if(x>=1):
   print("Positive")
 elif(x<=-1):
   print("Negative")
-elif(x==0):
-  print("Zero")
 else:
-  print("Invalid")
+  print("Zero")
