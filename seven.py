@@ -1,4 +1,4 @@
-a="Hello"
-n=int(input())
-for i in range(0,n):
-    print(a)
+z="Hello"
+h=int(input())
+for i in range(0,h):
+    print(z)
