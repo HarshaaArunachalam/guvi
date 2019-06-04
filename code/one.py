@@ -1,7 +1,7 @@
-x=float(input())
-if(x>0):
+pro=float(input())
+if(pro>0):
   print("Positive")
-elif(x==0):
+elif(pro==0):
   print("Zero")
 else:
   print("Negative")
