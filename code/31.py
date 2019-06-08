@@ -1,3 +1,4 @@
 a=input()
-b=len(a)
-print(b)
+b=a.replace(" ","")
+c=len(b)
+print(c)
