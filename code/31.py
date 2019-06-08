@@ -1,4 +1,4 @@
-a=input()
-b=a.replace(" ","")
-c=len(b)
-print(c)
+x=input()
+y=x.replace(" ","")
+z=len(y)
+print(z)
