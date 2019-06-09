@@ -1,6 +1,6 @@
-a,b=input().split()
+x,y=input().split()
 temp=0
-temp=a
-a=b
-b=temp
-print(a,b)
+temp=x
+x=y
+y=temp
+print(x,y)
