@@ -1,0 +1,8 @@
+h,m=input().split()
+hs,ms=input().split()
+h=int(h)
+m=int(m)
+hs=int(hs)
+ms=int(ms)
+print(abs(h-hs),end=" ")
+print(abs(m-ms),)
