@@ -4,5 +4,5 @@ M=int(M)
 product=N*M
 if(product%2==0):
     print("even")
-elif:
+else:
     print("odd")
