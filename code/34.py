@@ -1,3 +1,3 @@
 a=input()
 c=a.count(".")
-print(c)
+print(c+1)
