@@ -1,0 +1,2 @@
+nameword=input()
+print(nameword)
