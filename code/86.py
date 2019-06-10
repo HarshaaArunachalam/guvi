@@ -2,6 +2,6 @@ words=str(input())
 length=len(words)
 strings=set(words)
 if(length==len(strings)):
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
