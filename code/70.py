@@ -1,2 +1,2 @@
-N=int(input())
-print(N*2)
+nums=int(input())
+print(nums*2)
