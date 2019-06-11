@@ -1,0 +1,5 @@
+prin,rate,inte=input().split()
+prin=int(prin)
+rate=int(rate)
+inte=int(inte)
+print(prin*rate*inte//100)
