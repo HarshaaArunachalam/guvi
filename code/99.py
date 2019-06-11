@@ -1,0 +1,5 @@
+ai,bi,ci=input().split()
+ai=int(ai)
+bi=int(bi)
+ci=int(ci)
+print((ai*bi)%ci)
